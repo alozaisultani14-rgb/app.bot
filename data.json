@@ -1,0 +1,48 @@
+{
+    "1927800325": {
+        "balance": 0,
+        "invested": 50,
+        "profit": 25.0,
+        "referral": 0,
+        "daily_profit": 1.5,
+        "package": "LV1",
+        "last_profit": 1779430639.9177296,
+        "step": null,
+        "temp": 25.0,
+        "wd_type": "Binance ID",
+        "wd_addr": "53768",
+        "ref_by": null,
+        "first_name": "ALOZAI FX",
+        "username": "ALOZAI_ADMIN",
+        "invest_time": 1779344239.9177277,
+        "hashrate": "20 GH/S",
+        "lang": "fa",
+        "id": 1927800325,
+        "wd_phone": "",
+        "temp_afn": 0
+    },
+    "6560904517": {
+        "balance": 0,
+        "invested": 0,
+        "profit": 0,
+        "referral": 0,
+        "daily_profit": 1.5,
+        "package": "LV1",
+        "last_profit": 1779337474.1804476,
+        "step": "invest",
+        "temp": 50,
+        "wd_type": "",
+        "wd_addr": "",
+        "ref_by": null,
+        "first_name": "\u205e\u22b1\ud835\udc00\u0280\ud835\udc00\u0299\ud835\udc19\u1d00\ud835\udc08 \u20d7 \ud83d\udda4\ud83e\udebd\u22c6",
+        "username": "A_ArabZai",
+        "invest_time": 0,
+        "hashrate": "10 GH/S",
+        "lang": "fa",
+        "wd_phone": "",
+        "temp_afn": 0
+    },
+    "_SETTINGS": {
+        "usd_to_afn": 65
+    }
+}
